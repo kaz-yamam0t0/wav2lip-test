@@ -1,7 +1,7 @@
 # wav2lip-test
 Test for wav2lip
 
-[![Sample](sample.jpg)])(wav2lip.ipynb)
+[![Sample](sample.jpg)](wav2lip.ipynb)
 
 
 # References
